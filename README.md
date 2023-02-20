@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroong49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hiroong49&theme=warm)
