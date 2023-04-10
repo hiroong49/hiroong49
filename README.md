@@ -8,7 +8,7 @@
   
 <br>
 
-- <div align="left">🔭 I’m currently working on [Meta4Music] (https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s)  </div>
+- <div align="left">🔭 I’m currently working on <a href="https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s">Meta4Music</a>  </div>
   
 
 - <div align="left">🌱 I’m currently learning Three.js & Blender  </div>
@@ -16,15 +16,15 @@
 
 - <div align="left">⚡ Let's come a long way  </div>
 
-- <div align="left">✨ Visit my [Devlog](https://velog.io/@jimeaning)!  </div>
+ - <div align="left">✨ Visit my <a href="https://velog.io/@jimeaning">Devlog</a>!  </div>
   
 <br>
   
 ## <div align="left">Github Stats  </div>
 <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroong49&show_icons=true&bg_color=00000000)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroong49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hiroong49&show_icons=true&bg_color=00000000)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiroong49&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <br>
 
