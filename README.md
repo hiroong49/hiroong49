@@ -15,6 +15,8 @@
   
 
 - <div align="left">⚡ Let's come a long way  </div>
+
+- <div align="left">✨ Visit my [Devlog](https://velog.io/@jimeaning)!  </div>
   
 <br>
   
